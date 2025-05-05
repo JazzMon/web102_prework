@@ -25,10 +25,10 @@ Here's a walkthrough of implemented features:
 
 <img src='/assets/codepath_web102_preassessment.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<a href='https://www.canva.com/design/DAGmiHcTczw/OEs4fmMpFOpxh97v2Uj4_w/watch?utm_content=DAGmiHcTczw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he3e7d19fac' title='Second Video Walkthrough' alt='Second Video Walkthrough'>Canvas gif </a>
+<a href='https://imgur.com/kQIPxYm' title='Second Video Walkthrough' alt='Second Video Walkthrough'>Imgur gif </a>
 
 <!-- Windows Snipping Tool Video Option -->
-GIF created with Windows Snipping Tool Video Option and Canvas gif maker
+GIF created with Windows Snipping Tool Video Option and Imgur
 
 
 ## Notes
