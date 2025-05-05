@@ -5,6 +5,36 @@ body {
     background-color: #758190;
 }
 
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    background-color: #758190;
+    max-height: 40px;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbutton {
+    justify-content: center;
+    background-color: #758190;
+    text-align: center;
+    width: 100%;
+}
+
+.navbutton a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbutton button {
+    background-color: #758190;
+    cursor: pointer;
+}
+
 #tentacles {
     width: 50px;
 }
@@ -21,6 +51,14 @@ body {
 
 .stats-container {
     display: flex;
+    cursor: pointer;
+    box-shadow: 0, 0, 30px lightblue;
+}
+
+.stats-container s {
+    border: solid lightblue 2px;
+    display: flex;
+    align-items: center;
 }
 
 .stats-card {

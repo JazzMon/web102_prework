@@ -6,7 +6,20 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
 
-  <body>
+  <body id="webpage-top">
+    <!--Navbar with links to other sections of the webpage-->
+    <div id="navbar">
+        <div class="navbutton">
+            <button><a href="#webpage-top">Welcome!</a></button>
+        </div>
+        <div class="navbutton">
+            <button><a href="#stats-header">Stats</a></button>
+        </div>
+        <div class="navbutton">
+            <button><a href="#games-header">Our Games</a></button>
+        </div>
+
+    </div>
     <!-- header row with logo -->
     <div class="header">
         <img id="tentacles" src="assets/tentacles.png">
@@ -20,7 +33,7 @@
     </div>
 
     <!-- top games & other interesting stats -->
-    <h2>Stats</h2>
+    <h2 id="stats-header">Stats</h2>
     <div class="stats-container">
         <div class="stats-card">
             <h3>Individual Contributions</h3>
@@ -48,7 +61,7 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
+    <h2 id="games-header">Our Games</h2>
     <p>Check out each of our games below!</p>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
